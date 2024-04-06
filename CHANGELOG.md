@@ -1,8 +1,12 @@
-2.6.0 (TBD)
+2.6.1 (March 18, 2024)
+------------------------------ 
+Fixed compatibility with upcoming Flixel version 5.7.0
+
+
+2.6.0 (March 15, 2024)
 ------------------------------ 
 
 #### New features:
-
 - `FlxInputText`: Various features
     - Add paste support ([#253](https://github.com/HaxeFlixel/flixel-ui/pull/253))
     - Add mobile keyboard support ([#257](https://github.com/HaxeFlixel/flixel-ui/pull/257))
